@@ -15,6 +15,7 @@
     "axios": "^1.4.0",
     "chart.js": "^4.4.0",
     "chartjs": "^0.3.24",
+    "npm": "^10.1.0",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
@@ -23,7 +24,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node App.js",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
