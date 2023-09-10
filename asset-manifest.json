@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.1c0f6303.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.1c0f6303.js.map": "/static/js/main.1c0f6303.js.map"
+    "main.css": "/ReactAdminPanel/static/css/main.073c9b0a.css",
+    "main.js": "/ReactAdminPanel/static/js/main.1c0f6303.js",
+    "index.html": "/ReactAdminPanel/index.html",
+    "main.073c9b0a.css.map": "/ReactAdminPanel/static/css/main.073c9b0a.css.map",
+    "main.1c0f6303.js.map": "/ReactAdminPanel/static/js/main.1c0f6303.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
